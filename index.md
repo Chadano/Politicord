@@ -1,4 +1,4 @@
-[Home](home.html) | [Parties](party.html) | [Constitution](constitution.html) | [Join Now](https://discord.gg/QkVACATvUf)
+[Home](index.html) | [Parties](party.html) | [Constitution](constitution.html) | [Join Now](https://discord.gg/QkVACATvUf)
 
 ## Welcome
 
